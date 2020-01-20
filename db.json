@@ -1,47 +1,42 @@
 {
         "users": [ 
-        {   "id": 1,
-            "account": 4545434223,
+        {   
+            "id": 4545434223,
             "name": "Nguyen Le",
             "type": "One Club",
             "image": "https://www.theoneclub.com/assets/card_chairman-9740ee9776bcf89f24a469a0d990684c98be9605cfc50bcb4acb475ea2aca4cd.png",
             "amount": "456.35"
         },
         {
-            "id": 2,
-            "account": 65345343354,
+            "id": 65345343354,
             "name": "Blake Wilson",
             "type": "One Club",
             "image": "https://www.theoneclub.com/assets/card_chairman-9740ee9776bcf89f24a469a0d990684c98be9605cfc50bcb4acb475ea2aca4cd.png",
             "amount": "7456.35"
         },
-        {
-            "id": 3,
-            "account": 7654554643,
+        {   
+            "id": 7654554643,
             "name": "Michael Cameron",
             "type": "One Club",
             "image": "https://www.theoneclub.com/assets/card_chairman-9740ee9776bcf89f24a469a0d990684c98be9605cfc50bcb4acb475ea2aca4cd.png",
             "amount": "2456.35"
         },
         {
-            "id": 4,
-            "account": 134465657,
+            "id": 134465657,
             "name": "Reggie Stevens",
             "type": "One Club",
             "image": "https://www.theoneclub.com/assets/card_chairman-9740ee9776bcf89f24a469a0d990684c98be9605cfc50bcb4acb475ea2aca4cd.png",
             "amount": "9456.35"
         },
         {
-            "id": 5,
-            "account": 89678676546,
+            "id": 89678676546,
             "name": "Nick Finney",
             "type": "One Club",
             "image": "https://www.theoneclub.com/assets/card_chairman-9740ee9776bcf89f24a469a0d990684c98be9605cfc50bcb4acb475ea2aca4cd.png",
             "amount": "4356.35"
         },
         {
-            "id": 6,
-            "account": 9865645433,
+            "id": 9865645433,
             "name": "Shawn Rorick",
             "type": "One Club",
             "image": "https://www.theoneclub.com/assets/card_chairman-9740ee9776bcf89f24a469a0d990684c98be9605cfc50bcb4acb475ea2aca4cd.png",
